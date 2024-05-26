@@ -7,12 +7,12 @@
 }
 
 body {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #ffffffc5;
+  color: #030303;
 }
 
 .menunav {
-  background-color: #5a00ad;
+  background-color: #ff0202;
   overflow: hidden;
   text-align: center;
   display: flex;
@@ -20,7 +20,7 @@ body {
 }
 
 .ativo {
-  background-color: #2a272a;
+  background-color: #fac4c4;
   border: 1px solid #fff;
   border-radius: 2rem;
 }
@@ -36,7 +36,7 @@ body {
 }
 
 .menunav a:hover {
-  background-color: #ddd;
+  background-color: #ff000085;
   color: black;
   border-radius: 2rem;
 }
@@ -89,7 +89,7 @@ footer {
   width: 100%;
   height: 130px;
   padding: 30px 0;
-  background-color: #2a272a;
+  background-color: #ffffff;
 }
 
 header {
@@ -122,7 +122,7 @@ footer {
   color: #222222;
   text-align: center;
   padding: 25px;
-  border: 1px solid #5a00ad;
+  border: 1px solid #ff0303;
   box-shadow: -14px 10px 0px rgba(0, 0, 0, 0.5);
   border-radius: 10px;
 }
@@ -149,11 +149,11 @@ footer {
 
 #questions-qty {
   font-weight: bold;
-  color: #5a00ad;
+  color: #e60505;
 }
 
 #restart {
-  background-color: #5a00ad;
+  background-color: #ff0000;
   color: #fff;
   font-weight: bold;
   height: 50px;
@@ -167,7 +167,7 @@ footer {
 }
 
 #restart:hover {
-  background-color: #2a272a;
+  background-color: #ff0101;
   color: #ffffff;
 }
 
@@ -201,7 +201,7 @@ footer {
 #answers-box .btn-letter {
   font-size: 30px;
   font-weight: bold;
-  background-color: #5a00ad;
+  background-color: #ff0000;
   border: none;
   color: #fff;
   text-transform: uppercase;
